@@ -9,7 +9,7 @@
 
 - 🍻 Junior at 🇨🇳 [NEU](https://neu.edu.cn/), _BSc in Automatic Control(Pattern Recognition)_
 - ⚡ C++ / Python.
-- 🏃 Swimming / Running / Badminton 
+- 🏃 Swimming / Running 
 - :guitar: Guitar / Ukulele / Harmonica 
 - :taxi: Autonomous Driving / Deep Learning / Reinforcement Learning
 
