@@ -1,16 +1,15 @@
-### Hi there 👋
+### Yoo, I'm Haoyi Sun 👋
 
-<!--
-**SunHaoOne/SunHaoOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![CSDN](https://img.shields.io/badge/csdn-2658-%23FF0000)](https://blog.csdn.net/qwe900)
+[![Zhihu](https://img.shields.io/badge/dynamic/json?color=%231E90FF&label=zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dhaoyisun)](https://zhihu.com/people/SunHaoOne)
+[![Bilibili](https://img.shields.io/badge/dynamic/json?color=%23ff69b4&label=bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1966715)](https://space.bilibili.com/1966715)
+[![GitHub](https://img.shields.io/badge/dynamic/json?color=%09%23000000&label=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSunHaoOne)](https://github.com/SunHaoOne)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🍻 Junior at 🇨🇳 [NEU](https://neu.edu.cn/), _BSc in Automatic Control(Pattern Recognition)_
+- ⚡ C++ / Python.
+- 🏃 Swimming / Running / Badminton 
+- :guitar: Guitar / Ukulele / Harmonica 
+- :taxi: Autonomous Driving / Deep Learning / Reinforcement Learning
+
