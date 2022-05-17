@@ -12,5 +12,6 @@
 - ⚡ C++ / Python.
 - 🏃 Swimming / Running 
 - :guitar: Guitar / Ukulele / Harmonica 
-- :taxi: Autonomous Driving / Deep Learning / Reinforcement Learning
+- :taxi: Autonomous Driving 
+- :open_book: Deep Learning / Deep Reinforcement Learning
 
